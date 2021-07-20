@@ -6,7 +6,7 @@ theme = "hugo-theme-prav"
 pygmentsCodeFences = "true"
 pygmentsStyle = "perldoc"
 
-# If you want to track using GA or use disqus for comments, uncomment the 
+# If you want to track using GA or use disqus for comments, uncomment the
 # following and add the correct values
 #googleanalytics = ""
 #disqusShortname = ""
@@ -16,9 +16,9 @@ pygmentsStyle = "perldoc"
 [params]
     title = "Hugo Theme - Prav"
     tagline = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-    author = "Pravin Paratey"
+    author = "Joe Bloggs"
     authorImgPath = "/img/author.png"
-    authorBlurb = "Something about me"
+    authorBlurb = "Balderdash"
 
 # If you do not want a social icon, just comment it out
 # Please update the example values!
