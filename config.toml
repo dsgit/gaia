@@ -1,6 +1,6 @@
 baseURL = "https://example.com/"
-languageCode = "en-gb"
-title = "Hugo Theme - Prav"
+languageCode = "en-us"
+title = "Investment"
 theme = "hugo-theme-prav"
 
 pygmentsCodeFences = "true"
@@ -14,7 +14,7 @@ pygmentsStyle = "perldoc"
 # The settings below are used throughout the theme.
 # Please update!
 [params]
-    title = "Hugo Theme - Prav"
+    title = "Investment"
     tagline = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     author = "Joe Bloggs"
     authorImgPath = "/img/author.png"
