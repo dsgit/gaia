@@ -89,7 +89,7 @@ pygmentsStyle = "perldoc"
 [params]
   title = "Hugo Theme - Prav"
   tagline = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-  author = "Pravin Paratey"
+  author = "Joe Bloggs"
 
 [social]
   email = "mailto:pravin@paratey.com"
