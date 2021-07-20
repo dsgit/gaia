@@ -1,5 +1,5 @@
 ---
-author: "Pravin Paratey"
+author: "Joe Bloggs"
 title: "About Theme Prav"
 date: "2019-12-31"
 description: "A little more about this theme"
