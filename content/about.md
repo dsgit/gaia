@@ -1,8 +1,8 @@
 ---
-author: "Pravin Paratey"
-title: "About Theme Prav"
+author: "Joe Bloggs"
+title: "About"
 date: "2019-12-31"
-description: "A little more about this theme"
+description: "This theme"
 tags: [
     "theme",
     "prav",
@@ -11,7 +11,7 @@ tags: [
 
 ## History
 
-This theme began it's life in early 2013, as the theme for my blog "[Thoughts on Engineering and Management](https://cto.me.uk)". Back then it was generated using [nanoc](https://nanoc.ws/). In 2018, I moved to [hugo](https://gohugo.io/) because of it's ability to hot-reload the website while I was working. Nanoc forced me to rebuild the site which took roughly 10-20 seconds, which quickly became a deal breaker.
+This theme began its life in early 2013.
 
 ## Principles
 
